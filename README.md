@@ -10,6 +10,12 @@ The objective of this is to have a professional portfolio that is fully fleshed 
 
 
 
+![image](https://github.com/JakeHigham/Challenge-2/assets/149442786/be469c99-8847-4861-ad20-354aa5a25e02)
+
+
+
+
+
 
 
 ## Installation
