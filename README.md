@@ -18,7 +18,7 @@ N/A
 
 ## Usage
 
-Use the website as an example for your own portfolio!
+Use the website as an example for your own portfolio or check back periodically to see my progress!
 
 ## Credits
 
